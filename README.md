@@ -4,8 +4,8 @@
 <img alt="coding" align="right" width="400" src="https://pro2-bar-s3-cdn-cf3.myportfolio.com/17a47d9e8f4727ce5f3e48805b2d8eb2/ec05cb90-a7bb-4514-a948-7a24e1614a60_rw_1200.gif?h=dcfda12e1e43c18a48e89351bbc88b78"/>
 
 - 🌱 Estou aprendendo atualmente **Next.js**
-- 🔭 Estou trabalhando atualmente em um projeto pessoal **Eccomerce-admin**
-- 👨‍💻 Todos meus projetos estão disponíveis em  **EM BREVE**
+- 🔭 Estou trabalhando atualmente em um projeto pessoal **Plataforma de ensino**
+- 👨‍💻 Todos meus projetos vão estar disponíveis em  **EM BREVE**
 - 📫 Como entrar em contato comigo **joao.braga.porto01@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
@@ -20,4 +20,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jotinhaporto&show_icons=true&locale=en" alt="jotinhaporto" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jotinhaporto&" alt="jotinhaporto" /></p>
