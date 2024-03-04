@@ -3,7 +3,7 @@
 
 - 🤔 Na busca pelo aperfeiçoamento de conhecimentos em tecnologia.
 - 🌱 Estou aprendendo atualmente **Next.js e Node.js**
-- 🔭 Estou trabalhando atualmente em um projeto que é um **CMS** 
+- 🔭 Estou trabalhando atualmente em um projeto  **CMS** 
 
 
 
